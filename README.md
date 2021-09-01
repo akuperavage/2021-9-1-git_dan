@@ -17,5 +17,7 @@
 - `git add` <NAME> <URL>  : add a remore <NAMe> using the <URL>
    - `git remote add origin`
 - `git remote -` : shows you what remotes you have
-- `git push <REMOTE> <BRANCH>` : push our local changes in <BRANCH>
+<<<<<<< HEAD
+- `git push <REMOTE> <BRANCH>` : push our local changes 
+- `git push <REMOTE> <BRANCH> : push our local changes in <BRANCH>
 
