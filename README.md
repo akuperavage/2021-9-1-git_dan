@@ -26,3 +26,12 @@
 - `git branch <NAME>`: create a branch where you are
 - `git switch <NAME>`: move to branch
    - `git checkout <NAME>` 
+
+- `git switch -c <BRANCH>` : creat and move to branch in 1 step
+
+- pull request: merging a branch on the remote
+  -update PR by pushing to the branch
+  -merge the PR in the remote
+  -delete branch on remote
+- `git fetch --prune` : delete any local references where the remote branch was deleted
+   - `git branch -D <BRANCH>`: force delete branch without merging
