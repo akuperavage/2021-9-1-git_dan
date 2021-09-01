@@ -1,4 +1,4 @@
-# 2021-09-01-git_dan
+# NYC 2021-09-01-git_dan
 
 - `git init`: initialize git repository in current location
    - `pwd` : tell you where you are
@@ -18,4 +18,4 @@
    - `git remote add origin`
 - `git remote -` : shows you what remotes you have
 - `git push <REMOTE> <BRANCH> : push our local changes in <BRANCH>
-
+-
