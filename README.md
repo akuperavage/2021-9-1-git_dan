@@ -25,4 +25,4 @@
 
 - `git branch <NAME>`: create a branch where you are
 - `git switch <NAME>`: move to branch
-   - `git checkout` 
+   - `git checkout <NAME>` 
