@@ -21,3 +21,8 @@
 - `git push <REMOTE> <BRANCH>` : push our local changes 
 - `git push <REMOTE> <BRANCH> : push our local changes in <BRANCH>
 
+## Branches
+
+- `git branch <NAME>`: create a branch where you are
+- `git switch <NAME>`: move to branch
+   - `git checkout <NAME>` 
