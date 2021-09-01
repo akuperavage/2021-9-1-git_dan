@@ -6,3 +6,6 @@
 - `git add` <FILE> : adds <FILE> to the staging area
 - `git commit`: opens editor
 -  take notes
+- `git log` : shows you the log
+- `git diff` : dif current changes to last git state
+ 
